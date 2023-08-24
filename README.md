@@ -2,8 +2,7 @@ Project in WHU, course design of Business Analysis and Casual Inference, Jun. 20
 
 References:
 
-Yin et al. (2014, MISQ)
-Archak et al. (2011, MS)
+Yin et al. (2014, MISQ), Archak et al. (2011, MS)
 
 Contributors:
 
